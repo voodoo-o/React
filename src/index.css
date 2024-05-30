@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+input {
+  outline: none !important;
+}
